@@ -22,3 +22,7 @@ This repository exists purely for testing purposes. It contains:
 ## Note
 
 All content in this repository is synthetic and serves no functional purpose beyond testing GitHub integrations.
+
+## Maintainers
+
+For questions, contact: test-maintainer@example.com
